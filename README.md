@@ -9,6 +9,10 @@
 - :sparkles: Pronouns:  she/her/hers
 
 ### Languages & Tools 💬
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clairesujin8702&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/-redux-black)
