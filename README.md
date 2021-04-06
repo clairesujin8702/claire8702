@@ -19,9 +19,8 @@
 ![Babel](https://img.shields.io/badge/-babel-yellow)
 ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass%20-%231582B7.svg?&style=flat-square&logo=Sass&logoColor=pink)
+![Sass](https://img.shields.io/badge/Sass%20-%23C21325.svg?&style=flat-square&logo=Sass&logoColor=pink)
 ![Axios](https://img.shields.io/badge/-Axios-blueviolet)
-![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?&style=flat-square&logo=Jest&logoColor=white)
 ![JQuery](https://img.shields.io/badge/-jQuery-orange)
 ![webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black)
 
@@ -30,6 +29,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/mongoose-%234ea94b.svg?&style=flat-square)
+![SQlite](https://img.shields.io/badge/sqlite%20-%238DD6F9.svg?&style=flat-square&logo=sqlite&logoColor=blue")
 ![npm](https://img.shields.io/badge/npm-%234ea94b.svg?&style=flat-square&logo=npm&logoColor=yellow)
 ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white)
