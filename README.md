@@ -18,7 +18,6 @@
 ![Python](https://img.shields.io/badge/Python%20-%23323330.svg?&style=flat-square&logo=Python&logoColor=yellow&labelColor=gray)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/-redux-black)
-![React-dom](https://img.shields.io/badge/-ReactDom-orange)
 ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass%20-%23C21325.svg?&style=flat-square&logo=Sass&logoColor=pink)
@@ -26,7 +25,6 @@
 ![Axios](https://img.shields.io/badge/-Axios-blueviolet)
 ![JQuery](https://img.shields.io/badge/-jQuery-orange)
 ![webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black)
-![yarn](https://img.shields.io/badge/-yarn-yellow)
 
 ![Node](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20-%23404d59.svg?&style=flat-square&logo=express&logoColor=white)
@@ -35,5 +33,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
 ![SQlite](https://img.shields.io/badge/sqlite%20-%238DD6F9.svg?&style=flat-square&logo=sqlite&logoColor=blue")
 ![npm](https://img.shields.io/badge/npm-%234ea94b.svg?&style=flat-square&logo=npm&logoColor=yellow)
+![yarn](https://img.shields.io/badge/-yarn-yellow)
 ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white)
