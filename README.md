@@ -26,7 +26,6 @@
 ![Axios](https://img.shields.io/badge/-Axios-blueviolet)
 ![JQuery](https://img.shields.io/badge/-jQuery-orange)
 ![webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black)
-![Babel](https://img.shields.io/badge/-babel-yellow)
 ![yarn](https://img.shields.io/badge/-yarn-yellow)
 
 ![Node](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
