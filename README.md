@@ -18,7 +18,7 @@
 ![Python](https://img.shields.io/badge/Python%20-%23323330.svg?&style=flat-square&logo=Python&logoColor=gray)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/-redux-black)
-![React-dom](https://img.shields.io/badge/-React-dom-orange)
+![React-dom](https://img.shields.io/badge/-ReactDom-orange)
 ![Babel](https://img.shields.io/badge/-babel-yellow)
 ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
