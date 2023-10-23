@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/SujinKim%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/claire-sujin)](https://www.linkedin.com/in/claire-sujin)
 [![GitHub](https://img.shields.io/badge/SujinKim%20-grey.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/clairesujin8702)](https://github.com/clairesujin8702)
 [![Gmail](https://img.shields.io/badge/SujinKim%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:kimsujin8702@gmail.com)](mailto:kimsujin8702@gmail.com)
-[![AWS](https://img.shields.io/badge/AWS-%23121011.svg?&style=flat-square&logo=amazon-aws&logoColor=white&link=https://www.credly.com/users/sujin-kim.6bc25ead)](https://www.credly.com/users/sujin-kim.6bc25ead)
+[![AWS](https://img.shields.io/badge/AWS_Badges_Certification-%23121011.svg?&style=flat-square&logo=amazon-aws&logoColor=white&link=https://www.credly.com/users/sujin-kim.6bc25ead)](https://www.credly.com/users/sujin-kim.6bc25ead)
 
 - 🌱   Software Engineer
 - :round_pushpin:  Based in NY, NY
